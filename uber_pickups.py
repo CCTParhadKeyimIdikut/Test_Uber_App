@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas pd
+import pandas as pd
 import numpy as np
 
 st.title("Uber Pickups in NYC")
